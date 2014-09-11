@@ -1,0 +1,18 @@
+* Weather Balloon
+		1. Glider
+			1.Thermometer
+			2.Parachute
+			3.GoPro x2
+			4.Flight motherboard
+			5.Altometer
+			6.Hand Warmers
+			7.Thermal insulation
+			8.Radio Antennae (LONG RANGE)
+			9.Signal Booster
+			10.GPS
+			11.Batteries
+			12.Paint
+			13.Quadcoptor rotary blades
+			14.Quadcoptor rotary engines
+			15.Helicopter Landing Gear
+		
